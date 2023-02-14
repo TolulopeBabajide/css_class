@@ -1,0 +1,26 @@
+h1{
+    color:red;
+    border:2px solid green ;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+p{
+    color:purple;
+    font-style: italic;
+    background-color: whitesmoke;
+    border:2px dotted blue ;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+/* id selector */
+#css{
+    color:blanchedalmond ;
+}
+
+.git{
+    color: #006699;
+}
